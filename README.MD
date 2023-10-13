@@ -37,3 +37,6 @@ The AI Cover Letter Generator is a Streamlit application that automates the proc
 3. Click on "Generate Cover Letter".
 4. Download the generated cover letter.
 
+## App example
+
+https://cover-letter-app-app-mxzywfwoxp7jklakpplemv.streamlit.app/
