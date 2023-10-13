@@ -1,3 +1,5 @@
+![Alt text](bot.png)
+
 # AI Cover Letter Generator
 
 ## Overview
